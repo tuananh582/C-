@@ -1,0 +1,16 @@
+G:\c#\lamlai\lamlai\bin\Debug\net8.0-windows\lamlai.exe
+G:\c#\lamlai\lamlai\bin\Debug\net8.0-windows\lamlai.deps.json
+G:\c#\lamlai\lamlai\bin\Debug\net8.0-windows\lamlai.runtimeconfig.json
+G:\c#\lamlai\lamlai\bin\Debug\net8.0-windows\lamlai.dll
+G:\c#\lamlai\lamlai\bin\Debug\net8.0-windows\lamlai.pdb
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\lamlai.Form1.resources
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\lamlai.csproj.GenerateResource.cache
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\lamlai.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\lamlai.AssemblyInfoInputs.cache
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\lamlai.AssemblyInfo.cs
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\lamlai.csproj.CoreCompileInputs.cache
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\lamlai.dll
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\refint\lamlai.dll
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\lamlai.pdb
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\lamlai.genruntimeconfig.cache
+G:\c#\lamlai\lamlai\obj\Debug\net8.0-windows\ref\lamlai.dll

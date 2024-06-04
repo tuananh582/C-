@@ -1,0 +1,11 @@
+G:\c#\luyenbuoi1\luyenbuoi1\bin\Debug\luyenbuoi1.exe.config
+G:\c#\luyenbuoi1\luyenbuoi1\bin\Debug\luyenbuoi1.exe
+G:\c#\luyenbuoi1\luyenbuoi1\bin\Debug\luyenbuoi1.pdb
+G:\c#\luyenbuoi1\luyenbuoi1\obj\Debug\luyenbuoi1.csproj.AssemblyReference.cache
+G:\c#\luyenbuoi1\luyenbuoi1\obj\Debug\luyenbuoi1.Form1.resources
+G:\c#\luyenbuoi1\luyenbuoi1\obj\Debug\luyenbuoi1.Form2.resources
+G:\c#\luyenbuoi1\luyenbuoi1\obj\Debug\luyenbuoi1.Properties.Resources.resources
+G:\c#\luyenbuoi1\luyenbuoi1\obj\Debug\luyenbuoi1.csproj.GenerateResource.cache
+G:\c#\luyenbuoi1\luyenbuoi1\obj\Debug\luyenbuoi1.csproj.CoreCompileInputs.cache
+G:\c#\luyenbuoi1\luyenbuoi1\obj\Debug\luyenbuoi1.exe
+G:\c#\luyenbuoi1\luyenbuoi1\obj\Debug\luyenbuoi1.pdb
